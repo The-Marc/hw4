@@ -1,15 +1,15 @@
 //this is the first commit: Stack methods push, pop, and peek
 //second commit: Queue methods enqueue, dequeue, and peek
 
-//back from lab 08:
+//from lab 08:
 package hw4;
 
 import java.util.*;
 
 /**
- * @author zumrut
+ * SOMETHING IS WRONG WITH THE CLASS DECLARATION   ???
  */
-public class H4 Java
+public class H4Java
 {
     
     /**
